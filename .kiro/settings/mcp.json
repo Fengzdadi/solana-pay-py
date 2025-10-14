@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "context7": {
+      "command": "npx",
+      "args": ["-y", "@upstash/context7-mcp", "--api-key", "ctx7sk-1ae09f40-838e-4ec2-8e53-e65f9ab71aed"],
+      "env": {
+        "PATH": "/opt/homebrew/opt/node@22/bin:/usr/local/bin:/usr/bin:/bin"
+      },
+      "disabled": false,
+      "autoApprove": ["store_context", "get_context", "search_context"]
+    }
+  }
+}
