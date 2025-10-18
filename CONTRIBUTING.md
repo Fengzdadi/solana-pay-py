@@ -2,6 +2,10 @@
 
 Thank you for your interest in contributing to Solana Pay Python! This document provides guidelines for contributing to the project.
 
+## About This Project
+
+This project was developed with the assistance of [Kiro](https://kiro.ai), an AI-powered development environment.
+
 ## Development Setup
 
 ### Prerequisites

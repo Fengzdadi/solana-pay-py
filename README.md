@@ -137,6 +137,10 @@ uv run mypy solanapay
 - [Troubleshooting Guide](docs/troubleshooting.md)
 - [Contributing Guidelines](CONTRIBUTING.md)
 
+## Acknowledgments
+
+This project was developed with the assistance of [Kiro](https://kiro.ai), an AI-powered development environment.
+
 ## License
 
 MIT License - see [LICENSE](LICENSE) file for details.
